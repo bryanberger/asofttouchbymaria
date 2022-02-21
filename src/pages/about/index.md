@@ -1,19 +1,15 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+My name is Maria D’Angelo Berger, I am the owner and makeup artist of,\
+**“A Soft Touch by Maria”**.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+My love for makeup began as a little girl. As a young child I would watch my mom apply makeup in the mirror. She taught me that a little goes a long way. She would emphasize that soft colors such as pink and peach are colors that complement a lady’s appearance. As I grew older and more mature I would experiment with new and exciting colors of makeup.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+I began to work in the corporate field where I gained knowledge and experience in marketing and business management. In 1996 I began to work for Lancome Cosmetics. While at Lancome they sent me to school where I learned from the best about the art of makeup. I was frequently asked and hired for print, television, film, fashion and celebrity makeup jobs. As my popularity grew I decided to go independent and start “A Soft Touch by Maria”. Where I have and continue to provide makeup services for all ages. My services can be tailored for fashion shows, model shoots, movies, videos, proms, baz mitzvahs, engagement parties, christenings, bridal showers, weddings and any special event you make have.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+My clients are extremely diverse and come from many different backgrounds and ethnicities. My client requirements take me to NYC and it’s surrounding boroughs. I have also had requests for my talents that required travel by air to destinations such as South Beach, Miami, Los Angeles, Hollywood and Beverly Hills.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+I treat all jobs as if they are for the cover of “Vogue” magazine. Look and feel your best. My creative and artistic talents will enhance your natural beauty.
